@@ -1,0 +1,8 @@
+{
+  "_comment": "Row + column geometry of the 1850 census form (populationschedu0604unix, 6568x8424 px). row1_top = y of top of line 1; row_pitch = height of one ruled row; name_col_frac = [x_left_frac, x_right_frac] of the 'Names' column. Calibrated on Barton pages; other reels may differ.",
+  "n_rows": 42,
+  "row1_top": 1620,
+  "row_pitch": 150,
+  "crop_margin": 20,
+  "name_col_frac": [0.15, 0.37]
+}
