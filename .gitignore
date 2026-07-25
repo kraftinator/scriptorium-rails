@@ -33,3 +33,7 @@
 # Ignore key files for decrypting credentials and more.
 /config/*.key
 
+
+# HTR training crops (large, regenerable)
+/data/crops/
+!/data/barton_htr_data.tar.gz
